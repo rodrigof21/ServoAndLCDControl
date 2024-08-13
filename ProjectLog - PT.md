@@ -9,8 +9,6 @@ Primeiro sistema básico de controlo de números num LCD com um potenciómetro.
 #### 20:21
 Controlar o Motor Servo com o potenciómetro e mostrar o seu valor no LCD.
 
-![[Pasted image 20240812130317.png]]
-Primeiro Protótipo de circuito
 #### 23:56
 Adicionou se um botão para funcionalidades extra. Agora é permitido escolher o ângulo com o potenciómetro e só depois de carregar no botão é que o motor se move.
 
