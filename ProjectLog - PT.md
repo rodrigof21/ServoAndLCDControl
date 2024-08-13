@@ -34,4 +34,4 @@ Foi adicionado um piezo para que o jogo tenha efeitos sonoros simples. Apita de 
 >[!warning]
 >O Piezo estava a interferir com o sinal do LCD por isso a primeira tentativa foi afastar ambos os componentes, o que levava a uma breadboard confusa e pouco estável, dado que os cabos de desmontavam facilmente. O problema foi resolvido adicionando uma resistência de 220 Ohm ao circuito do Piezo.
 
-Adicionou-se também algum texto para ficar mais interativo, como se vê nas figuras abaixo.
+Adicionou-se também algum texto para ficar mais interativo.
